@@ -86,7 +86,7 @@ University of Petroleum and Energy Studies (UPES)
 
 📚 Academic Project
 
-Submitted to Mr. Virendra Kadyan
+Submitted to Mr. Virender Kadyan
 
 Department of Computer Science and Engineering
 
